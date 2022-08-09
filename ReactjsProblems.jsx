@@ -95,3 +95,21 @@ function FifthComponent({message})
     )
 }
 export default FifthComponent
+
+
+/* Output :
+FirstComponent
+FirstComponent
+SecondComponent
+FirstComponent
+SecondComponent
+ThirdComponent
+FirstComponent
+SecondComponent
+ThirdComponent
+FourthComponent
+FirstComponent
+SecondComponent
+ThirdComponent
+FourthComponent
+FifthComponent */

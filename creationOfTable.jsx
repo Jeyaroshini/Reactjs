@@ -32,42 +32,42 @@ function Table()
                     <td>Jeyaroshini</td>
                     <td>913119205015</td>
                     <td>Female</td>
-                    <td><img src="https://m.media-amazon.com/images/I/31Cd9UQp6eL._SX355_.jpg" alt=""  height="50px" width="70px" alt="" /></td>
+                    <td><img src="female.jpg" alt=""  height="50px" width="70px" alt="" /></td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>Jeyasree</td>
                     <td>913119205016</td>
                     <td>Female</td>
-                    <td><img src="https://m.media-amazon.com/images/I/31Cd9UQp6eL._SX355_.jpg" alt="" height="50px" width="70px" /></td>
+                    <td><img src="female.jpg" alt="" height="50px" width="70px" /></td>
                 </tr>
                 <tr>
                     <td>3</td>
                     <td>Madhu Varshni</td>
                     <td>913119205017</td>
                     <td>Female</td>
-                    <td><img src="https://m.media-amazon.com/images/I/31Cd9UQp6eL._SX355_.jpg" alt="" height="50px" width="70px" /></td>
+                    <td><img src="female.jpg" alt="" height="50px" width="70px" /></td>
                 </tr>
                 <tr>
                     <td>4</td>
                     <td>Surya Kumar</td>
                     <td>913119205018</td>
                     <td>Male</td>
-                    <td><img src="https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg" alt="" height="50px" width="70px" /></td>
+                    <td><img src="male.jpg" alt="" height="50px" width="70px" /></td>
                 </tr>
                 <tr>
                     <td>5</td>
                     <td>Harshivan</td>
                     <td>913119205019</td>
                     <td>Male</td>
-                    <td><img src="https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg" alt="" height="50px" width="70px" /></td>
+                    <td><img src="male.jpg" alt="" height="50px" width="70px" /></td>
                 </tr>
                 <tr>
                     <td>6</td>
                     <td>Hamshine</td>
                     <td>913119205020</td>
                     <td>Female</td>
-                    <td><img src="https://m.media-amazon.com/images/I/31Cd9UQp6eL._SX355_.jpg" alt="" height="50px" width="70px" /></td>
+                    <td><img src="female.jpg" alt="" height="50px" width="70px" /></td>
                 </tr>
                 </tbody>
                 </table>
@@ -107,11 +107,7 @@ tableDesign.css
   td {
     background-color: pink;
   }
-  table.image-container
-  {
-    max-width: 10px;
-height: 10px;
-  }
+ 
 
 h1{
 text-align: center;
